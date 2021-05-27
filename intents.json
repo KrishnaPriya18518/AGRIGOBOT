@@ -1,0 +1,93 @@
+{"intents": [
+        {"tag": "greeting",
+         "patterns": ["Hi there","hi", "Is anyone there?","Hey","Hola", "Hello", "Good day"],
+         "responses": ["Hello, thanks for asking", "Good to see you again", "Hi there, how can I help?"],
+         "context": [""]
+        },
+        {"tag": "goodbye",
+         "patterns": ["Bye", "See you later", "Goodbye", "Nice chatting to you, bye", "Till next time"],
+         "responses": ["See you!", "Have a nice day", "Bye! Come back again soon."],
+         "context": [""]
+        },
+        {"tag": "thanks",
+         "patterns": ["Thanks", "Thank you", "That's helpful", "Awesome, thanks", "Thanks for helping me"],
+         "responses": ["Happy to help!", "Any time!", "My pleasure"],
+         "context": [""]
+        },
+	{"tag": "name",
+         "patterns": ["Who are you?", "What is your name?","Tell me about you"],
+         "responses": ["I am Agrigo bot!", "I am Agrigo bot, here to help you!", "My name is Agrigo bot","I am Agrigo bot, you can ask me anything!"],
+         "context": [""]
+        },
+        {"tag" : "how",
+        "patterns": ["How are you?"],
+        "responses": ["I am good. How about you?", "I am fine! Thanks for asking."],
+        "context": [""]
+        },
+        {"tag" : "fine",
+         "patterns": ["I am fine","I am great","I am ok"],
+         "responses": ["That's good. How can I help you?"],
+         "context": [""]
+        },
+        {"tag": "noanswer",
+         "patterns": [],
+         "responses": ["Sorry, can't understand you", "Please give me more info", "Not sure I understand"],
+         "context": [""]
+        },
+        {"tag": "options",
+         "patterns": ["How you could help me?", "What you can do?", "What help you provide?", "How you can be helpful?", "What support is offered"],
+         "responses": ["I can guide you about Agriculture marketing, Agricities website", "Offering support for Agriculture marketing, Agricities website"],
+         "context": [""]
+        },
+	{"tag" : "Delivery",
+         "patterns": ["When will the crop be deliverd?","When the crop will be delivered?","How long it takes to deliver crop?","When can I expect delivey?"],
+         "responses": ["The yield will get delilvered in span of 10-15 days","It takes 10-15 days to deliver"],
+         "context": [""]
+        },
+        {"tag" : "Features of Consumers Interface",
+         "patterns": ["What are the features of consumers interface?","Features of consumers interface","Explain about consumers interface?","Tell in detail about consumers interface","Details of consumers interface"],
+         "responses": ["Features : 1)Consumer can have a Video Conference with the farmer for better experience 2)More Information about Farmers is provided for the consumers for their further contact purposes 3)Consumer can view the crops and filter them based on the type and delivery date of the  crop  4)Consumer can rate the quality of crop and can even given suggestions to the farmer"],
+         "context": [""]
+        },
+        {"tag": "Features of Representatives Interface",
+         "patterns": ["What are features of representatives interface?","Features of representatives interface","Explain about representatives interface?","Tell in detail about representatives interface","Details of representatives interface"],
+         "responses": ["Features : 1)Representatives can earn their living by aiding farmers 2)Representatives can upload farmers farm details"],
+         "context": [""]
+        },
+        {"tag": "Features of Farmers Interface",
+         "patterns": ["What are features of farmers interface?","Features of farmers interface","Explain about farmers interface?","Tell in detail about farmers interface","Details of farmers interface"],
+         "responses": ["Features : 1)Farmers can upload their farm details and store them to be displayed for the consumers 2)Farmers can relate with the consumers through video calling to have a better experience and worthy trust 3)Can view the information in their required languages 4)Educating journals regarding seasonal crops and statistics of the profitable crops are provided for next harvest"],
+         "context": [""]
+        },
+        {"tag": "translation",
+         "patterns": ["Is there any language translation?","Language translation","How about language translation?"],
+         "responses": ["For the feasibility of end user the app provides language translation"],
+         "context": [""]
+        },
+        {"tag": "Representative",
+         "patterns" : ["What is role of representative?","Who is representative?","Role of representative","Tell me about representative","What a representative can do?"],
+         "responses" : ["Representative is the one who works on behalf of unlettered and novice users by uploading their farm details and can earn about 5-10% on each fortunate deal. Empowers employment for jobless."],
+         "context" : [""]
+        },
+        {"tag": "Consumer",
+         "patterns" : ["What is role of consumer?","Who is consumer?","Role of consumer","Tell me about consumer","What a consumer can do?"],
+         "responses" : ["Consumer is the one who can purchase the products at fair price"],
+         "context" : [""]
+        },
+        {"tag": "Farmer",
+         "patterns" : ["What is role of farmer?","Who is farmer?","Role of farmer","Tell me about farmer","What a farmer can do?"],
+         "responses" : ["Farmer is the one who can upload their details and farm details as well. Farmers will also be advised about the crop productivity based on present crop statistics"],
+         "context" : [""]
+        },
+        {"tag": "AGRICITEASE",
+         "patterns" : ["What is AGRICITEASE?","How AGRICITEASE work?","What is AGRICITEASE about?","Tell me about AGRICITEASE","How can I use AGRICITEASE?"],
+         "responses" : ["AGRICITEASE affinity founding between Farmers and Consumers is an all-inclusive digital platform designed to assist farmers in selling their products The new move will eliminate the need for farmers to sell their products through retailers that will escalate in farmer's profits. Our web application and android app consists of three portals"],
+         "context" : [""]
+        },
+        {"tag": "Market",
+         "patterns" : [],
+         "responses" : ["Our Customers are Consumers and Users are Farmers and Representative. We mainly want to Focus on customers who buy the yield in bulk amounts like Restaraunts, Hostels, Catering services etc"],
+         "context" : [""]
+        }
+        ]
+}
