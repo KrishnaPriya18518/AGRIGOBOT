@@ -1,0 +1,29 @@
+ "AGRICITEASE" affinity founding between Farmers and Consumers
+ is an all-inclusive digital platform designed to assist farmers in selling their products The new move will eliminate the need for farmers to sell their products through retailers that will escalate in farmer's profits. Our web application and android app consists of three portals
+Farmer -- one can upload their details and farm details as well. Farmers will also be advised about the crop productivity based on present crop statistics
+
+Consumer -- Can purchase the products at fair price
+Representative -- The one who works on behalf of unlettered and novice users by uploading their farm details and can earn about 5-10% on each fortunate deal. Empowers employment for jobless.
+
+For the feasibility of end user our app even provides language translation.
+
+Market - Our Customers are Consumers and Users are Farmers and Representative. 
+We mainly want to Focus on customers who buy the yield in bulk amounts like Restaraunts, Hostels, Catering services etc; 
+
+Features of Farmers Interface:
+Farmers can upload their farm details and store them to be displayed for the consumers
+Farmers can relate with the consumers through video calling to have a better experience and worthy trust
+Can view the information in their required languages 
+Educating journals regarding seasonal crops and statistics of the profitable crops are provided for next harvest. 
+
+Features of Representatives Interface
+Representatives can earn their living by aiding farmers in their
+Representatives can upload farmers farm details .  
+
+Features of Consumers Interface
+Consumer can have a Video Conference with the farmer for better experience
+More Information about Farmers is provided for the consumers for their further contact purposes
+Consumer can view the crops and filter them based on the type and delivery date of the  crop  
+Consumer can rate the quality of crop and can even given suggestions to the farmer
+
+Delivery - The yield will get delilvered in span of 10-15days.
