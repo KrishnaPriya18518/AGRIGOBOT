@@ -1,0 +1,136 @@
+\documentclass{beamer}
+
+\mode<presentation> {
+\usetheme{Madrid}
+}
+\usepackage{graphicx}
+\usepackage{booktabs}
+\title{AGRIGO BOT}
+
+\begin{document}
+\begin{frame}
+\begin{center}
+\titlepage {\Large{}}
+\begin{itemize}
+\begin{center}
+  \item \large N.SaiSnusha - 18WH1A0496
+  \item \large M.Krishna priya - 18WH1A0518
+  \item \large Nisha - 19WH5A0505
+  \item \large B.Tanmayee sai - 18WH1A1209
+  \item \large A.Thanvi - 18WH1A0203
+  \item \large M.Sirisha - 18WH1A04A9
+    
+\item \large{BVRIT HYDERABAD College of Engineering for Women}
+\date{\today}
+\end{center}
+   
+\end{itemize}
+\end{center}
+\end{frame}
+
+\begin{frame}
+\frametitle{Problem Statement}
+\begin{itemize}
+\item Most consumer facing companies will have an FAQ posted on their  website. FAQs quickly expand to unwieldy lengths, so as to answer  the majority of potential questions. Search within FAQs can help FAQ  overload but often feels like a step too far for many customers.
+\end{itemize}
+\break
+\end{frame}
+%-----------------------------------------------------
+\begin{frame}{Approach}
+
+  
+  \Large{}
+  \begin{itemize}
+  
+ \item \large Instead of typing a query into a search bar, a customer could simply send a message to a website customer service chatbot  and get a precise answer on their specific issue.
+ \item \large A well designed chatbot is an excellent way to supplement a customer service team and provide one-to-one service at scale.
+    \end{itemize}
+  
+     
+\end{frame}
+%--------------------------------------------------------
+\begin{frame}{Data Set}
+\begin{itemize}
+   \item \large{https://prsindia.org/policy/analytical-reports/state-agriculture-  india
+}
+ \item \large{https://agritech.tnau.ac.in/agriculturalmarketing/agrimarkI ndia.html
+}
+\item\larget{Agricitease Info Text
+}
+   \end{itemize}
+ 
+\end{frame}
+
+
+
+
+
+
+%--------------------------------------------------------------------
+\begin{frame}
+\frametitle{Technologies used/Libraries}
+\begin{itemize}
+\item \large{NLP}
+\item \large{Article}
+\item \large{Nltk}
+\item \large{Countvectorizer}
+\item \large{Cosine similarity}
+\item \large{Numpy}
+\end{itemize}
+\tableofcontents
+\end{frame}
+%------------------------------------------------
+
+\begin{frame}
+  \frametitle{Learnings}
+  \begin{itemize}
+   \item \large{Creating Intents}
+    \item \large{CountVectorizing}
+     \item \large {NLP pipeline}
+\end{itemize}   
+  
+\end{frame}
+
+%------------------------------------------------------
+%------------------------------------------------
+
+\begin{frame}
+  \frametitle{Challenges faced}
+  \begin{itemize}
+   \item \large{Data set}
+   \item \large {Creating Intents}
+\end{itemize}   
+  
+\end{frame}
+
+%------------------------------------------------------
+%------------------------------------------------
+
+\begin{frame}
+  \frametitle{Git Repo}
+  \begin{itemize}
+  \item \larget{https://github.com/KrishnaPriya18518/AGRIGOBOT}
+\end{itemize}   
+  
+\end{frame}
+
+%------------------------------------------------------
+%------------------------------------------------
+
+\begin{frame}
+  \frametitle{Code}
+  \begin{itemize}
+\end{itemize}   
+  
+\end{frame}
+
+%------------------------------------------------------
+\begin{frame}
+  \frametitle{References}
+  \begin{itemize}
+   \item \largehttps{https://www.youtube.com/watch?v=9KZwRBg4-P0&feature=youtu.be}
+\end{itemize}   
+  
+\end{frame}
+
+\end{document}
