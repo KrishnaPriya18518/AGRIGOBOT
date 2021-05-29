@@ -10,6 +10,7 @@
 \begin{document}
 \begin{frame}
 \begin{center}
+
 \titlepage {\Large{}}
 \begin{itemize}
 \begin{center}
@@ -21,7 +22,9 @@
   \item \large M.Sirisha - 18WH1A04A9
     
 \item \large{BVRIT HYDERABAD College of Engineering for Women}
+
 \date{\today}
+
 \end{center}
    
 \end{itemize}
@@ -31,23 +34,12 @@
 \begin{frame}
 \frametitle{Problem Statement}
 \begin{itemize}
-\item Most consumer facing companies will have an FAQ posted on their  website. FAQs quickly expand to unwieldy lengths, so as to answer  the majority of potential questions. Search within FAQs can help FAQ  overload but often feels like a step too far for many customers.
+\item Most consumer facing companies will have an FAQ posted on their website 
+\item Search within FAQs often feels like a step too far for many customers
 \end{itemize}
 \break
 \end{frame}
-%-----------------------------------------------------
-\begin{frame}{Approach}
 
-  
-  \Large{}
-  \begin{itemize}
-  
- \item \large Instead of typing a query into a search bar, a customer could simply send a message to a website customer service chatbot  and get a precise answer on their specific issue.
- \item \large A well designed chatbot is an excellent way to supplement a customer service team and provide one-to-one service at scale.
-    \end{itemize}
-  
-     
-\end{frame}
 %--------------------------------------------------------
 \begin{frame}{Data Set}
 \begin{itemize}
@@ -60,21 +52,39 @@
    \end{itemize}
  
 \end{frame}
-
-
-
-
-
-
-%--------------------------------------------------------------------
+%-----------------------------------------------------------------
 \begin{frame}
-\frametitle{Technologies used/Libraries}
+
+  \frametitle{Approach}
+  \begin{itemize}
+  \begin{center}
+        \includegraphics[width=70]{Project.png}
+  \end{center}
+    \end{itemize}
+ 
+\end{frame}
+%--------------------------------------------------------
+\begin{frame}
+\frametitle{Technologies used}
 \begin{itemize}
 \item \large{NLP}
+\item \large{Keras}
+\begin{center}
+    \item \includegraphics[width=320]{flowchart.jpeg}
+\end{center}
+\end{itemize}
+\tableofcontents
+\end{frame}
+%------------------------------------------------
+
+\begin{frame}
+  \frametitle{Libraries}
+  \begin{itemize}
+\item \large{Keras} 
 \item \large{Article}
-\item \large{Nltk}
-\item \large{Countvectorizer}
-\item \large{Cosine similarity}
+\item \large{NLTK}
+\item \large{Json}
+\item \large{Pickle}
 \item \large{Numpy}
 \end{itemize}
 \tableofcontents
@@ -84,9 +94,10 @@
 \begin{frame}
   \frametitle{Learnings}
   \begin{itemize}
-   \item \large{Creating Intents}
-    \item \large{CountVectorizing}
-     \item \large {NLP pipeline}
+\item \large {Training Data}
+   \item \large {Lemmatizing}
+   \item \large {Creating Intents}
+   \item \large {Keras model}
 \end{itemize}   
   
 \end{frame}
@@ -97,8 +108,9 @@
 \begin{frame}
   \frametitle{Challenges faced}
   \begin{itemize}
-   \item \large{Data set}
-   \item \large {Creating Intents}
+  \item\large{Intents}
+  \item\large{Creating Functions for the bot responses}
+   
 \end{itemize}   
   
 \end{frame}
@@ -109,6 +121,9 @@
 \begin{frame}
   \frametitle{Git Repo}
   \begin{itemize}
+    \begin{center}
+        \includegraphics[width=300]{git.jpeg}
+  \end{center}
   \item \larget{https://github.com/KrishnaPriya18518/AGRIGOBOT}
 \end{itemize}   
   
@@ -118,8 +133,11 @@
 %------------------------------------------------
 
 \begin{frame}
-  \frametitle{Code}
+  \frametitle{Output}
   \begin{itemize}
+  \begin{center}
+        \includegraphics[width=320]{output.jpeg}
+  \end{center}
 \end{itemize}   
   
 \end{frame}
@@ -129,6 +147,18 @@
   \frametitle{References}
   \begin{itemize}
    \item \largehttps{https://www.youtube.com/watch?v=9KZwRBg4-P0&feature=youtu.be}
+    \item \largehttps{https://dzone.com/articles/build-it-yourself-chatbot-api-with-kerastensorflow}
+     \item \largehttps{https://towardsdatascience.com/build-it-yourself-chatbot-api-with-keras-tensorflow-model-f6d75ce957a5}
+\end{itemize}   
+  
+\end{frame}
+
+%------------------------------------------------------
+\begin{frame}
+  \begin{itemize}
+  \begin{center}
+      \Huge\textbf{THANK YOU}
+  \end{center}
 \end{itemize}   
   
 \end{frame}
